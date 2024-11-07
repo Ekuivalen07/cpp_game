@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1721886956 source:d:\tugas c++ vallen\p1\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+
